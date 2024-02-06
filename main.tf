@@ -10,7 +10,7 @@ terraform {
     }
   }
   required_version = "~> 1.0"
-
+//these are the details of new organization and workspace
   backend "remote" {
     organization = "TerraformOrg_kapil"
 
